@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/sopranos.png</file>
+        <file>img/sonic.png</file>
+        <file>img/eva.png</file>
+        <file>img/retsuko.png</file>
+        <file>img/shrek.png</file>
+        <file>img/simp.png</file>
+        <file>img/thanos.png</file>
+    </qresource>
+</RCC>

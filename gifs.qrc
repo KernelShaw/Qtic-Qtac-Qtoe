@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gifs">
+        <file>gifs/asuka.gif</file>
+        <file>gifs/bart.gif</file>
+        <file>gifs/retsuko.gif</file>
+        <file>gifs/shrek.gif</file>
+        <file>gifs/sonic.gif</file>
+        <file>gifs/thanos.gif</file>
+        <file>gifs/tony.gif</file>
+    </qresource>
+</RCC>
